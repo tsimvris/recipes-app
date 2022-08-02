@@ -5,9 +5,9 @@ export default function Header() {
   return (
     <StyledHeader>
       <StyleNav>
-        <a>Home</a>
-        <a>Veggie</a>
-        <a>Desserts</a>
+        <a href="./">Home</a>
+        <a href="Veggie">Veggie</a>
+        <a href="Dessert">Desserts</a>
       </StyleNav>
     </StyledHeader>
   );
