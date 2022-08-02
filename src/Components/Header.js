@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <StyledHeader>
       <StyleNav>
-        <Link href="./">
+        <Link href="/">
           <a>Home</a>
         </Link>
         <Link href="Veggie">
