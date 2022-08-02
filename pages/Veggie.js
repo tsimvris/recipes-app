@@ -10,7 +10,7 @@ export default function Veggie() {
       <StyledSection>
         <StyledImage>
           <Image
-            src="/../public/pizza.jpg"
+            src="/pizza.jpg"
             alt="Veggie Pizza"
             layout="responsive"
             width={4}
