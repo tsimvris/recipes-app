@@ -1,7 +1,6 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
-import Veggie from "./Veggie";
-import Dessert from "./Dessert";
+
 export default function Home() {
   return (
     <div className={styles.container}>
